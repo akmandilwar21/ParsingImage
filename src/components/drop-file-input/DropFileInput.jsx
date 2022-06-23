@@ -226,6 +226,7 @@ const DropFileInput = (props) => {
       }
       setPhone(number);
     }
+  };
   const handleClick = () => {
     Tesseract.recognize(imagePath, "eng", {
       logger: (m) => {
