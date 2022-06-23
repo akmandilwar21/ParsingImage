@@ -3,13 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@pdftron/webviewer": "^8.5.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "buffer": "^6.0.3",
+    "office-text-extractor": "^1.5.0",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^2.5.207",
+    "pdfreader": "^2.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-file-reader": "^1.1.4",
+    "react-geocode": "^0.2.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "reactstrap": "^9.1.1",
+    "resume-parser": "^1.1.0",
+    "simple-resume-parser": "^1.1.8",
+    "tesseract.js": "^2.1.5",
+    "web-vitals": "^2.1.4",
+    "worker-loader": "^3.0.8"
   },
   "scripts": {
     "start": "react-scripts start",
